@@ -21,7 +21,7 @@ print(type(x))
 x = range(6)
 print(type(x))
 
-x = {"name" : "John", "age" : 36}
+x = {"name": "John", "age": 36}
 print(type(x))
 
 x = {"apple", "banana", "cherry"}
